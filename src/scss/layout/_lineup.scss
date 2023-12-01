@@ -4,16 +4,18 @@
 .lineup{
     background-color: v.$rosa;
     padding: 5rem 0;
+
+    h3, p{
+        text-align: center;
+        color: v.$blanco;
+    }
+    .dia{
+        text-transform: uppercase;
+        margin: 5rem 0;
+    }
 }
 
-h3,p{
-    text-align: center;
-    color: v.$blanco;
-}
-.dia{
-    text-transform: uppercase;
-    margin: 5rem 0;
-}
+
 
 .escenarios-contenedor{
 
